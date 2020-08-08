@@ -1,0 +1,8 @@
+
+yysscoreboard.command.on.successful=[YYSSB] Anzeigetafel erfolgreich aktivieren.
+yysscoreboard.command.on.already=[YYSSB] Sie haben die Anzeigetafel bereits aktiviert.
+yysscoreboard.command.off.successful=[YYSSB] Anzeigetafel erfolgreich deaktivieren.
+yysscoreboard.command.off.already=[YYSSB] Sie haben die Anzeigetafel bereits deaktiviert.
+yysscoreboard.command.use.successful=[YYSSB] Änderung mit erfolgreicher ID.
+yysscoreboard.command.use.noPermission=[YYSSB] Sie haben keine Berechtigung dazu.
+yysscoreboard.command.use.exception=[YYSSB] Ein Fehler!
